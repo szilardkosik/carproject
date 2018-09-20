@@ -1,0 +1,24 @@
+.actions{
+    width: 180px;
+}
+
+.comments{
+    padding: 20px;
+}
+
+.comment{
+    margin: 1em;
+    padding: 1em;
+    border-bottom: solid thin red;
+}
+
+.comment_text{
+    font-style: italic;
+    font-size: .9em;
+}
+
+.comment_ts{
+    text-align: right;
+    color: #999;
+    font-size: .8em;
+}

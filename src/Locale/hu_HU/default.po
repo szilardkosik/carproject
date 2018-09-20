@@ -1,0 +1,793 @@
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2018-09-19 23:37+0000\n"
+"PO-Revision-Date: 2018-09-20 15:22+0200\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.1.1\n"
+"Last-Translator: \n"
+"Language: hu_HU\n"
+
+#: Controller/CarsController.php:58;86
+msgid "The car has been saved."
+msgstr "Autó sikeresen elmentve."
+
+#: Controller/CarsController.php:62;90
+msgid "The car could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/CarsController.php:111
+msgid "The car has been deleted."
+msgstr "Autó törlésre került."
+
+#: Controller/CarsController.php:113
+msgid "The car could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/CommentsController.php:58;83
+msgid "The comment has been saved."
+msgstr "Hozzászólás elmentve"
+
+#: Controller/CommentsController.php:62;87
+msgid "The comment could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/CommentsController.php:105
+msgid "The comment has been deleted."
+msgstr ""
+
+#: Controller/CommentsController.php:107
+msgid "The comment could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/FuelsController.php:55;79
+msgid "The fuel has been saved."
+msgstr ""
+
+#: Controller/FuelsController.php:59;83
+msgid "The fuel could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/FuelsController.php:100
+msgid "The fuel has been deleted."
+msgstr ""
+
+#: Controller/FuelsController.php:102
+msgid "The fuel could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/MakesController.php:55;79
+msgid "The make has been saved."
+msgstr ""
+
+#: Controller/MakesController.php:59;83
+msgid "The make could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/MakesController.php:100
+msgid "The make has been deleted."
+msgstr ""
+
+#: Controller/MakesController.php:102
+msgid "The make could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/ModelsController.php:58;83
+msgid "The model has been saved."
+msgstr ""
+
+#: Controller/ModelsController.php:62;87
+msgid "The model could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/ModelsController.php:105
+msgid "The model has been deleted."
+msgstr ""
+
+#: Controller/ModelsController.php:107
+msgid "The model could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/UsersController.php:55;79
+msgid "The user has been saved."
+msgstr "Tulajdonos sikeresen elmentve."
+
+#: Controller/UsersController.php:59;83
+msgid "The user could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/UsersController.php:100
+msgid "The user has been deleted."
+msgstr "Tulajdonos törlésre került."
+
+#: Controller/UsersController.php:102
+msgid "The user could not be deleted. Please, try again."
+msgstr ""
+
+#: Template/Cars/add.ctp:9 Template/Cars/edit.ctp:9
+#: Template/Cars/index.ctp:9;28 Template/Cars/view.ctp:9
+#: Template/Comments/add.ctp:9 Template/Comments/edit.ctp:9
+#: Template/Comments/index.ctp:9;24 Template/Comments/view.ctp:9
+#: Template/Fuels/add.ctp:9 Template/Fuels/edit.ctp:9
+#: Template/Fuels/index.ctp:9;22 Template/Fuels/view.ctp:9;44
+#: Template/Makes/add.ctp:9 Template/Makes/edit.ctp:9
+#: Template/Makes/index.ctp:9;24 Template/Makes/view.ctp:9;46;77
+#: Template/Models/add.ctp:9 Template/Models/edit.ctp:9
+#: Template/Models/index.ctp:9;25 Template/Models/view.ctp:9;50
+#: Template/Users/add.ctp:9 Template/Users/edit.ctp:9
+#: Template/Users/index.ctp:9;25 Template/Users/view.ctp:9;52
+msgid "Actions"
+msgstr "Műveletek"
+
+#: Template/Cars/add.ctp:10 Template/Cars/edit.ctp:16 Template/Cars/view.ctp:12
+#: Template/Comments/add.ctp:11 Template/Comments/edit.ctp:17
+#: Template/Comments/index.ctp:11 Template/Comments/view.ctp:14
+#: Template/Fuels/add.ctp:11 Template/Fuels/edit.ctp:17
+#: Template/Fuels/index.ctp:11 Template/Fuels/view.ctp:14
+#: Template/Makes/add.ctp:11 Template/Makes/edit.ctp:17
+#: Template/Makes/index.ctp:11 Template/Makes/view.ctp:14
+#: Template/Models/add.ctp:13 Template/Models/edit.ctp:19
+#: Template/Models/index.ctp:13 Template/Models/view.ctp:16
+#: Template/Users/add.ctp:11 Template/Users/edit.ctp:17
+#: Template/Users/index.ctp:11 Template/Users/view.ctp:14
+msgid "List Cars"
+msgstr "Autók listája"
+
+#: Template/Cars/add.ctp:11 Template/Cars/edit.ctp:17
+#: Template/Cars/index.ctp:11 Template/Cars/view.ctp:14
+#: Template/Users/add.ctp:10 Template/Users/edit.ctp:16
+#: Template/Users/view.ctp:12
+msgid "List Users"
+msgstr "Tulajdonosok listája"
+
+#: Template/Cars/add.ctp:12 Template/Cars/edit.ctp:18
+#: Template/Cars/index.ctp:12 Template/Cars/view.ctp:15
+#: Template/Users/index.ctp:10 Template/Users/view.ctp:13
+msgid "New User"
+msgstr "Új tulajdonos"
+
+#: Template/Cars/add.ctp:18
+msgid "Add Car"
+msgstr "Autó felvétele"
+
+#: Template/Cars/add.ctp:29 Template/Cars/edit.ctp:35
+#: Template/Comments/add.ctp:24 Template/Comments/edit.ctp:30
+#: Template/Fuels/add.ctp:23 Template/Fuels/edit.ctp:29
+#: Template/Makes/add.ctp:25 Template/Makes/edit.ctp:31
+#: Template/Models/add.ctp:26 Template/Models/edit.ctp:32
+#: Template/Users/add.ctp:24 Template/Users/edit.ctp:31
+#: View/Helper/FormHelper.php:1988
+msgid "Submit"
+msgstr "Mentés"
+
+#: Template/Cars/edit.ctp:11 Template/Cars/index.ctp:45
+#: Template/Comments/edit.ctp:11 Template/Comments/index.ctp:37
+#: Template/Fuels/edit.ctp:11 Template/Fuels/index.ctp:33
+#: Template/Fuels/view.ctp:60 Template/Makes/edit.ctp:11
+#: Template/Makes/index.ctp:35 Template/Makes/view.ctp:62;87
+#: Template/Models/edit.ctp:11 Template/Models/index.ctp:37
+#: Template/Models/view.ctp:66 Template/Users/edit.ctp:11
+#: Template/Users/index.ctp:39 Template/Users/view.ctp:64
+msgid "Delete"
+msgstr "Töröl"
+
+#: Template/Cars/edit.ctp:13 Template/Cars/index.ctp:45
+#: Template/Cars/view.ctp:11 Template/Comments/edit.ctp:13
+#: Template/Comments/index.ctp:37 Template/Comments/view.ctp:11
+#: Template/Fuels/edit.ctp:13 Template/Fuels/index.ctp:33
+#: Template/Fuels/view.ctp:11;60 Template/Makes/edit.ctp:13
+#: Template/Makes/index.ctp:35 Template/Makes/view.ctp:11;62;87
+#: Template/Models/edit.ctp:13 Template/Models/index.ctp:37
+#: Template/Models/view.ctp:11;66 Template/Users/edit.ctp:13
+#: Template/Users/index.ctp:39 Template/Users/view.ctp:11;64
+msgid "Are you sure you want to delete # {0}?"
+msgstr ""
+
+#: Template/Cars/edit.ctp:24 Template/Cars/view.ctp:10
+msgid "Edit Car"
+msgstr "Autó szerkesztése"
+
+#: Template/Cars/index.ctp:10 Template/Cars/view.ctp:13
+#: Template/Comments/add.ctp:12 Template/Comments/edit.ctp:18
+#: Template/Comments/index.ctp:12 Template/Comments/view.ctp:15
+#: Template/Fuels/add.ctp:12 Template/Fuels/edit.ctp:18
+#: Template/Fuels/index.ctp:12 Template/Fuels/view.ctp:15
+#: Template/Makes/add.ctp:12 Template/Makes/edit.ctp:18
+#: Template/Makes/index.ctp:12 Template/Makes/view.ctp:15
+#: Template/Models/add.ctp:14 Template/Models/edit.ctp:20
+#: Template/Models/index.ctp:14 Template/Models/view.ctp:17
+#: Template/Users/add.ctp:12 Template/Users/edit.ctp:18
+#: Template/Users/index.ctp:12 Template/Users/view.ctp:15
+msgid "New Car"
+msgstr "Új autó"
+
+#: Template/Cars/index.ctp:16
+msgid "Cars"
+msgstr "Autók"
+
+#: Template/Cars/index.ctp:43 Template/Comments/index.ctp:35
+#: Template/Fuels/index.ctp:31 Template/Fuels/view.ctp:58
+#: Template/Makes/index.ctp:33 Template/Makes/view.ctp:60;85
+#: Template/Models/index.ctp:35 Template/Models/view.ctp:64
+#: Template/Users/index.ctp:37 Template/Users/view.ctp:62
+#: View/Helper/PaginatorHelper.php:1212
+msgid "View"
+msgstr "Adatlap"
+
+#: Template/Cars/index.ctp:44 Template/Comments/index.ctp:36
+#: Template/Fuels/index.ctp:32 Template/Fuels/view.ctp:59
+#: Template/Makes/index.ctp:34 Template/Makes/view.ctp:61;86
+#: Template/Models/index.ctp:36 Template/Models/view.ctp:65
+#: Template/Users/index.ctp:38 Template/Users/view.ctp:63
+msgid "Edit"
+msgstr "Szerkeszt"
+
+#: Template/Cars/index.ctp:53 Template/Comments/index.ctp:45
+#: Template/Fuels/index.ctp:41 Template/Makes/index.ctp:43
+#: Template/Models/index.ctp:45 Template/Users/index.ctp:47
+msgid "first"
+msgstr "első"
+
+#: Template/Cars/index.ctp:54 Template/Comments/index.ctp:46
+#: Template/Fuels/index.ctp:42 Template/Makes/index.ctp:44
+#: Template/Models/index.ctp:46 Template/Users/index.ctp:48
+msgid "previous"
+msgstr "előző"
+
+#: Template/Cars/index.ctp:56 Template/Comments/index.ctp:48
+#: Template/Fuels/index.ctp:44 Template/Makes/index.ctp:46
+#: Template/Models/index.ctp:48 Template/Users/index.ctp:50
+msgid "next"
+msgstr "következő"
+
+#: Template/Cars/index.ctp:57 Template/Comments/index.ctp:49
+#: Template/Fuels/index.ctp:45 Template/Makes/index.ctp:47
+#: Template/Models/index.ctp:49 Template/Users/index.ctp:51
+msgid "last"
+msgstr "utolsó"
+
+#: Template/Cars/index.ctp:59 Template/Comments/index.ctp:51
+#: Template/Fuels/index.ctp:47 Template/Makes/index.ctp:49
+#: Template/Models/index.ctp:51 Template/Users/index.ctp:53
+msgid ""
+"Page {{page}} of {{pages}}, showing {{current}} record(s) out of {{count}} "
+"total"
+msgstr ""
+
+#: Template/Cars/view.ctp:11
+msgid "Delete Car"
+msgstr "Autó törlése"
+
+#: Template/Cars/view.ctp:22 Template/Fuels/view.ctp:39
+#: Template/Makes/view.ctp:41 Template/Models/view.ctp:45
+#: Template/Users/view.ctp:48
+msgid "Lp Number"
+msgstr "Rendszám"
+
+#: Template/Cars/view.ctp:26
+msgid "User"
+msgstr "Tulajdonos"
+
+#: Template/Cars/view.ctp:30 Template/Comments/view.ctp:26
+#: Template/Fuels/view.ctp:26;35 Template/Makes/view.ctp:28;37;74
+#: Template/Models/view.ctp:32;41 Template/Users/view.ctp:30;47
+msgid "Id"
+msgstr ""
+
+#: Template/Cars/view.ctp:34 Template/Fuels/view.ctp:36
+#: Template/Makes/view.ctp:38;75 Template/Models/view.ctp:42
+msgid "Make Id"
+msgstr ""
+
+#: Template/Cars/view.ctp:38 Template/Fuels/view.ctp:37
+#: Template/Makes/view.ctp:39 Template/Models/view.ctp:43
+msgid "Model Id"
+msgstr ""
+
+#: Template/Cars/view.ctp:42 Template/Fuels/view.ctp:38
+#: Template/Makes/view.ctp:40 Template/Models/view.ctp:44
+msgid "Fuel Id"
+msgstr "Üzemanyag"
+
+#: Template/Cars/view.ctp:46 Template/Fuels/view.ctp:40
+#: Template/Makes/view.ctp:42 Template/Models/view.ctp:46
+msgid "Year"
+msgstr "Évjárat"
+
+#: Template/Cars/view.ctp:50 Template/Fuels/view.ctp:42
+#: Template/Makes/view.ctp:44 Template/Models/view.ctp:48
+#: Template/Users/view.ctp:34;50
+msgid "Ceated"
+msgstr "Létrehozva"
+
+#: Template/Cars/view.ctp:54 Template/Comments/view.ctp:34
+#: Template/Fuels/view.ctp:43 Template/Makes/view.ctp:45
+#: Template/Models/view.ctp:49 Template/Users/view.ctp:38;51
+msgid "Modified"
+msgstr "Módosítva"
+
+#: Template/Comments/add.ctp:10 Template/Comments/edit.ctp:16
+#: Template/Comments/view.ctp:12
+msgid "List Comments"
+msgstr ""
+
+#: Template/Comments/add.ctp:18
+msgid "Add Comment"
+msgstr "Hozzászólás hozzáadása"
+
+#: Template/Comments/edit.ctp:24 Template/Comments/view.ctp:10
+msgid "Edit Comment"
+msgstr ""
+
+#: Template/Comments/index.ctp:10 Template/Comments/view.ctp:13
+msgid "New Comment"
+msgstr "Új hozzászólás"
+
+#: Template/Comments/index.ctp:16
+msgid "Comments"
+msgstr "Hozzászólások"
+
+#: Template/Comments/view.ctp:11
+msgid "Delete Comment"
+msgstr "Hozzászólás törlése"
+
+#: Template/Comments/view.ctp:22
+msgid "Car"
+msgstr "Autó"
+
+#: Template/Comments/view.ctp:30
+msgid "Created"
+msgstr ""
+
+#: Template/Comments/view.ctp:39
+msgid "Comment"
+msgstr ""
+
+#: Template/Fuels/add.ctp:10 Template/Fuels/edit.ctp:16
+#: Template/Fuels/view.ctp:12
+msgid "List Fuels"
+msgstr ""
+
+#: Template/Fuels/add.ctp:18
+msgid "Add Fuel"
+msgstr ""
+
+#: Template/Fuels/edit.ctp:24 Template/Fuels/view.ctp:10
+msgid "Edit Fuel"
+msgstr ""
+
+#: Template/Fuels/index.ctp:10 Template/Fuels/view.ctp:13
+msgid "New Fuel"
+msgstr ""
+
+#: Template/Fuels/index.ctp:16
+msgid "Fuels"
+msgstr "Üzemanyag"
+
+#: Template/Fuels/view.ctp:11
+msgid "Delete Fuel"
+msgstr ""
+
+#: Template/Fuels/view.ctp:22
+msgid "Fuel Name"
+msgstr ""
+
+#: Template/Fuels/view.ctp:31 Template/Makes/view.ctp:33
+#: Template/Models/view.ctp:37 Template/Users/view.ctp:43
+msgid "Related Cars"
+msgstr "Kapcsolódó autók"
+
+#: Template/Fuels/view.ctp:41 Template/Makes/view.ctp:43
+#: Template/Models/view.ctp:47 Template/Users/view.ctp:49
+msgid "User Id"
+msgstr ""
+
+#: Template/Layout/default.ctp:45
+msgid "Autók listája"
+msgstr ""
+
+#: Template/Layout/default.ctp:46
+msgid "Autó felvétele"
+msgstr ""
+
+#: Template/Layout/default.ctp:47
+msgid "Tulajdonosok listája"
+msgstr ""
+
+#: Template/Layout/default.ctp:48
+msgid "Tulajdonos felvétele"
+msgstr ""
+
+#: Template/Layout/error.ctp:35 Template/Error/error400.ctp:36
+#: Template/Error/error500.ctp:41
+msgid "Error"
+msgstr ""
+
+#: Template/Layout/error.ctp:43
+msgid "Back"
+msgstr ""
+
+#: Template/Makes/add.ctp:10 Template/Makes/edit.ctp:16
+#: Template/Makes/view.ctp:12 Template/Models/add.ctp:11
+#: Template/Models/edit.ctp:17 Template/Models/index.ctp:11
+#: Template/Models/view.ctp:14
+msgid "List Makes"
+msgstr ""
+
+#: Template/Makes/add.ctp:13 Template/Makes/edit.ctp:19
+#: Template/Makes/index.ctp:13 Template/Makes/view.ctp:16
+#: Template/Models/add.ctp:10 Template/Models/edit.ctp:16
+#: Template/Models/view.ctp:12
+msgid "List Models"
+msgstr ""
+
+#: Template/Makes/add.ctp:14 Template/Makes/edit.ctp:20
+#: Template/Makes/index.ctp:14 Template/Makes/view.ctp:17
+#: Template/Models/index.ctp:10 Template/Models/view.ctp:13
+msgid "New Model"
+msgstr ""
+
+#: Template/Makes/add.ctp:20
+msgid "Add Make"
+msgstr ""
+
+#: Template/Makes/edit.ctp:26 Template/Makes/view.ctp:10
+msgid "Edit Make"
+msgstr ""
+
+#: Template/Makes/index.ctp:10 Template/Makes/view.ctp:13
+#: Template/Models/add.ctp:12 Template/Models/edit.ctp:18
+#: Template/Models/index.ctp:12 Template/Models/view.ctp:15
+msgid "New Make"
+msgstr ""
+
+#: Template/Makes/index.ctp:18
+msgid "Makes"
+msgstr ""
+
+#: Template/Makes/view.ctp:11
+msgid "Delete Make"
+msgstr ""
+
+#: Template/Makes/view.ctp:24
+msgid "Make Name"
+msgstr ""
+
+#: Template/Makes/view.ctp:70
+msgid "Related Models"
+msgstr ""
+
+#: Template/Makes/view.ctp:76 Template/Models/view.ctp:28
+msgid "Model Name"
+msgstr ""
+
+#: Template/Models/add.ctp:20
+msgid "Add Model"
+msgstr ""
+
+#: Template/Models/edit.ctp:26 Template/Models/view.ctp:10
+msgid "Edit Model"
+msgstr ""
+
+#: Template/Models/index.ctp:18
+msgid "Models"
+msgstr ""
+
+#: Template/Models/view.ctp:11
+msgid "Delete Model"
+msgstr ""
+
+#: Template/Models/view.ctp:24
+msgid "Make"
+msgstr "Gyártó"
+
+#: Template/Users/add.ctp:18
+msgid "Add User"
+msgstr "Tulajdonos felvétele"
+
+#: Template/Users/edit.ctp:24 Template/Users/view.ctp:10
+msgid "Edit User"
+msgstr "Tulajdonos szerkesztése"
+
+#: Template/Users/index.ctp:16
+msgid "Users"
+msgstr "Tulajdonosok"
+
+#: Template/Users/view.ctp:11
+msgid "Delete User"
+msgstr "Tulajdonos törlése"
+
+#: Template/Users/view.ctp:22
+msgid "Name"
+msgstr "Név"
+
+#: Template/Users/view.ctp:26
+msgid "Email"
+msgstr ""
+
+#: Template/Error/error400.ctp:37
+msgid "The requested address {0} was not found on this server."
+msgstr ""
+
+#: Template/Error/error500.ctp:39
+msgid "An Internal Error Has Occurred"
+msgstr ""
+
+#: Controller/Component/AuthComponent.php:500
+msgid "You are not authorized to access that location."
+msgstr ""
+
+#: Controller/Component/CsrfComponent.php:162
+#: Http/Middleware/CsrfProtectionMiddleware.php:191
+msgid "Missing CSRF token cookie"
+msgstr ""
+
+#: Controller/Component/CsrfComponent.php:166
+#: Http/Middleware/CsrfProtectionMiddleware.php:195
+msgid "CSRF token mismatch."
+msgstr ""
+
+#: Error/ExceptionRenderer.php:262
+msgid "Not Found"
+msgstr ""
+
+#: Error/ExceptionRenderer.php:264
+msgid "An Internal Error Has Occurred."
+msgstr ""
+
+#: Http/Response.php:2603
+msgid "The requested file contains `..` and will not be read."
+msgstr ""
+
+#: Http/Response.php:2624
+msgid "The requested file was not found"
+msgstr ""
+
+#: I18n/Number.php:90
+msgid "{0,number,#,###.##} KB"
+msgstr ""
+
+#: I18n/Number.php:92
+msgid "{0,number,#,###.##} MB"
+msgstr ""
+
+#: I18n/Number.php:94
+msgid "{0,number,#,###.##} GB"
+msgstr ""
+
+#: I18n/Number.php:96
+msgid "{0,number,#,###.##} TB"
+msgstr ""
+
+#: I18n/Number.php:88
+msgid "{0,number,integer} Byte"
+msgid_plural "{0,number,integer} Bytes"
+msgstr[0] ""
+msgstr[1] ""
+
+#: I18n/RelativeTimeFormatter.php:80
+msgid "{0} from now"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:80
+msgid "{0} ago"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:83
+msgid "{0} after"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:83
+msgid "{0} before"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:114
+msgid "just now"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:151
+msgid "about a second ago"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:152
+msgid "about a minute ago"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:153
+msgid "about an hour ago"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:154;332
+msgid "about a day ago"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:155;333
+msgid "about a week ago"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:156;334
+msgid "about a month ago"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:157;335
+msgid "about a year ago"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:168
+msgid "in about a second"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:169
+msgid "in about a minute"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:170
+msgid "in about an hour"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:171;346
+msgid "in about a day"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:172;347
+msgid "in about a week"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:173;348
+msgid "in about a month"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:174;349
+msgid "in about a year"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:304
+msgid "today"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:370
+msgid "%s ago"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:371
+msgid "on %s"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:47;126;316
+msgid "{0} year"
+msgid_plural "{0} years"
+msgstr[0] ""
+msgstr[1] ""
+
+#: I18n/RelativeTimeFormatter.php:51;129;319
+msgid "{0} month"
+msgid_plural "{0} months"
+msgstr[0] ""
+msgstr[1] ""
+
+#: I18n/RelativeTimeFormatter.php:57;132;322
+msgid "{0} week"
+msgid_plural "{0} weeks"
+msgstr[0] ""
+msgstr[1] ""
+
+#: I18n/RelativeTimeFormatter.php:59;135;325
+msgid "{0} day"
+msgid_plural "{0} days"
+msgstr[0] ""
+msgstr[1] ""
+
+#: I18n/RelativeTimeFormatter.php:64;138
+msgid "{0} hour"
+msgid_plural "{0} hours"
+msgstr[0] ""
+msgstr[1] ""
+
+#: I18n/RelativeTimeFormatter.php:68;141
+msgid "{0} minute"
+msgid_plural "{0} minutes"
+msgstr[0] ""
+msgstr[1] ""
+
+#: I18n/RelativeTimeFormatter.php:72;144
+msgid "{0} second"
+msgid_plural "{0} seconds"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ORM/RulesChecker.php:57
+msgid "This value is already in use"
+msgstr ""
+
+#: ORM/RulesChecker.php:104
+msgid "This value does not exist"
+msgstr ""
+
+#: ORM/RulesChecker.php:128
+msgid "The count does not match {0}{1}"
+msgstr ""
+
+#: Utility/Text.php:917
+msgid "and"
+msgstr ""
+
+#: Validation/Validator.php:111
+msgid "This field is required"
+msgstr ""
+
+#: Validation/Validator.php:112
+msgid "This field cannot be left empty"
+msgstr ""
+
+#: Validation/Validator.php:2054
+msgid "The provided value is invalid"
+msgstr ""
+
+#: View/Helper/FormHelper.php:1099
+msgid "Edit {0}"
+msgstr ""
+
+#: View/Helper/FormHelper.php:1101
+msgid "New {0}"
+msgstr ""
+
+#: View/Helper/HtmlHelper.php:815
+msgid "Home"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:540
+msgid "January"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:541
+msgid "February"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:542
+msgid "March"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:543
+msgid "April"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:544
+msgid "May"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:545
+msgid "June"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:546
+msgid "July"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:547
+msgid "August"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:548
+msgid "September"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:549
+msgid "October"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:550
+msgid "November"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:551
+msgid "December"
+msgstr ""
+
+msgid "Fuel"
+msgstr "Üzemanyag"
